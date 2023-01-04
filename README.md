@@ -4,10 +4,14 @@
 
 
 
-Let's Connect! 🤝
 
 
-### My home: LinkedIn 🌐
+**Let's Connect!** 🤝
+
+
+***My home*** : <a href="https://www.linkedin.com/in/umut-baran-630a6a106/">Go to my Linkedin</a>
+
+
 
 
 
