@@ -12,7 +12,7 @@
 ***My home*** : <a href="https://www.linkedin.com/in/umut-baran-630a6a106/">Go to my Linkedin</a>
 
 
-
+<img src ="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Types_of_Data_and_How_To_Analyze_Data.jpg" width="350" height="auto" >
 
 
 
