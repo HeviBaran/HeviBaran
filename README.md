@@ -9,7 +9,7 @@
 
 
 ### Data Analyst with a passion for transforming complex datasets into compelling visual insights. I specialize in developing comprehensive analytical solutions and thrive on uncovering meaningful patterns within data. My collaborative approach and enthusiasm for data-driven problem-solving make me an effective team member who enjoys working alongside equally motivated colleagues.
-Technical expertise includes Excel, SQL, Power BI, Tableau, Python, and R, enabling me to deliver robust analytical solutions across diverse platforms and requirements.
+### Technical expertise includes Excel, SQL, Power BI, Tableau, Python, and R, enabling me to deliver robust analytical solutions across diverse platforms and requirements.
 
 
 
